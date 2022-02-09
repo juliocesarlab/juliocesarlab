@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a virtual library**
 
-- 🌱 I’m currently learning **React, NextJS,**
+- 🌱 I’m currently learning **React, NextJS**
 
 - 🤝 I’m looking for help with **Nextsjs**
 
