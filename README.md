@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a virtual library**
 
-- 🌱 I’m currently learning **React, NextJS**
+- 🌱 I’m currently learning **Node, NextJS, Typescript**
 
-- 🤝 I’m looking for help with **Nextsjs**
+- 🤝 I’m looking for help with **Next and Typescript**
 
 - 💬 Ask me about **Javascript**
 
