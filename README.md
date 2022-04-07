@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Júlio César</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **a virtual library**
+- 🔭 I’m currently working on **Time tracking app**
 
 - 🌱 I’m currently learning **Node, NextJS, Typescript**
 
