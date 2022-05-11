@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Time tracking app**
 
-- 🌱 I’m currently learning **Node, NextJS, Typescript**
+- 🌱 I’m currently learning **C#, VueJS, Next and Typescript**
 
 - 🤝 I’m looking for help with **Next and Typescript**
 
