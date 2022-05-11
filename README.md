@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#, VueJS, Next and Typescript**
 
-- 🤝 I’m looking for help with **Next and Typescript**
+- 🤝 I’m looking for help with **C# and Typescript**
 
 - 💬 Ask me about **Javascript**
 
