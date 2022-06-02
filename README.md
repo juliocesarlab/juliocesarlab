@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Júlio César</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Time tracking app**
+- 🔭 I’m currently working on **(its a secret for now)**
 
-- 🌱 I’m currently learning **C#, VueJS, Next and Typescript**
+- 🌱 I’m currently learning **C#, Azure, React and Typescript**
 
 - 🤝 I’m looking for help with **C# and Typescript**
 
